@@ -1,0 +1,237 @@
+banana, banana
+lemon, limona
+orange, pomaranča
+grapefruit, grenivka
+pear, hruška
+peach, breskev
+apricot, marelica
+plum, sliva
+grapes, grozdje
+pineapple, ananas
+persimmon, kaki
+tangerine, mandarina
+melon, melona
+watermelon, lubenica
+cherry, češnja
+fig, figa
+apple, jabolko
+raspberry, malina
+strawberry, jagoda
+blueberry, borovnica
+gooseberry, kosmulja
+blackberry, robida
+cranberry, brusnica
+pomengrate, granatno jabolko
+blackcurrant, črni ribez
+redcurrant, rdeči ribez
+nut, orešček
+hazelnut, lešnik
+walnut, oreh
+peanut, arašid
+chestnut, kostanj
+date, datelj
+prunes, suhe slive
+raisins, rozine
+almond, mandelj
+kiwi, kivi
+corn, koruza
+bean, fižol
+cabbage, zelje
+carrot, korenje
+cauliflower, cvetača
+cucumber, kumara
+garlic, česen
+leek, por
+brussels sprouts, ohrovt
+horseradish, hren
+pea, grah
+tomato, paradižnik
+potato, krompir
+turnip, repa
+beetrot, rdeča pesa
+broccoli, brokoli
+radish, redkvica
+zucchini, bučka
+kale, ohrovt
+lettuce, solata
+spinach, špinača
+mushroomn, goba
+aspagarus, špargelj
+peppers, paprike
+pumpkin, buča
+eggplant, malancan
+beef, govedina
+pork, svinjina
+veal, teletina
+lamb, jagnjetina
+frankfurter, hrenovka
+venison, divjačina
+sheep, ovca
+mince, mleti
+steak, zrezek
+chop, nasekati
+sausage, klobasa
+bacon, slanina
+ham, šunka
+smoked ham, dimljena šunka
+poultry, perutnina
+turkey, puran
+goose, goska
+chicken, piščanec
+pate, pašteta
+fish, riba
+black pudding, krvavica
+paprika, rdeča paprika
+pepper, poper
+cinnamon, cimet
+ginger, ingver
+nutmeg, muškatni orešček
+parsley, peteršilj
+rosemary, rožmarin
+thyme, timijan
+chives, drobnjak
+oregano, origano
+basil, bazilika
+sugar, sladkor
+pinch of salt, ščepec soli
+baking powder, pecilni prašek
+flour, moka
+1tsp, čajna žlička
+1tbsp, jedilna žlica
+rolling pin, valjar
+jug, vrč
+tray, pladenj
+peeler, lupilnik
+kettle, čajnik
+grater, strgalnik
+funnel, lij
+pan, ponev
+bowl, skleda
+pot, lonec
+lid, pokrov
+sieve, cedilka
+colander, cedilo
+bottle opener, odpirač za steklenice
+tin opener, odpirač za pločevinke
+corkscrew, odpirač
+bread basket, košara za kruh
+food processor, multipraktik
+pressure cooker, ekonom lonec
+oven, pečica
+baking paper, peki papir
+fork, vilica
+spoon, žlica
+knife, nož
+cutlery, pribor
+ladle, zajemalka
+cook, kuhati
+grate, ribati
+spread, namazati
+batter, masa
+dough, testo
+pour, zliti
+yeast, kvas
+serve, postreči
+bread crumbs, krušne drobtine
+grill, žar
+cutting board, deska za rezanje
+sift, presejati
+cool, ohladiti
+mix, zmešati z mešalnikom
+blend, zmiksati
+fry, ocvreti
+bake, speči
+steam, dušiti
+stew, obara
+boil, prevreti
+roast, popeči
+peel, olupiti
+cut, narezati
+sprinkle, potresti
+add, dodati
+stir, zmešati na roko
+mash, pretlačiti
+slice, narezati na rezine
+stove, štedilnik
+starter, predjed 
+main course, glavna jed
+salads, solate
+dessert, sladica
+breakfast, zajtrk
+lunch, kosilo
+dinner, večerja
+supper, večerja
+tea, večerja
+snack, prigrizek
+menu, meni
+salami, salama
+honey, med
+muesli, kosmiči
+margarine, margarina
+pudding, puding
+toast, toast
+crisps, čips
+butter, maslo
+brown bread, črn kruh
+wholemeal bread, polnozrnat kruh
+carniolan sausage, kranjska klobasa
+softboiled egg, mehkokuhano jajce
+hardboiled egg, trdokuhano jajce
+sunny side up, jajce na oko
+fried eggs, ocvrta jajca
+egg white, beljak
+egg yolk, rumenjak
+omelette, omleta
+roast chicken, pečen piščanec
+mashed potatoes, pire krompir
+marmelade, marmelada
+jam, marmelada
+boiled beef, kuhana govedina
+pork chop, svinjski kotlet
+hamburger, hamburger
+rice, riž
+chicken risotto, piščančja rižota
+fish fillet, ribji file
+fish and chips, riba in krompirček
+beef goulash, goveji golaž
+hashed browns, popečen krompir
+beef soup with noodles, goveja juha z rezanci
+chicken soup, piščančja juha
+soup of the day, juha dneva
+tomato soup, paradižnikova juha 
+vegetable soup, zelenjavna juha
+sauerkraut, kislo zelje
+fresh fruit, sveže sadje
+stewed fruit, vloženo sadje
+pancakes, palačinke
+apple pie, jabolčna pita
+apple strudel, jabolčni štrudelj
+moussaka, musaka
+salad, solata
+baked potatoes, pečen krompir
+dumplings, cmočki
+wheat, pšenica
+buckwheat, ajda
+mixed salad, mešana solata
+cereal, žitarice
+barley, ječmen
+maize porridge, polenta
+walnut roll, potica
+cover, prekriti
+cook book, kuharska knjiga
+recipe, recept
+cottage cheese, skuta
+soft drinks, negazirane pijače
+fizzy drinks, gazirane pijače
+mug, skodelica
+cup, posodica
+napkin, prtiček
+vinegar, kis
+coffee, kava
+spices, začimbe
+herbs, zelišča
+mustard, gorčica
+carbohydrates, ogljikovi hidrati
+protein, beljakovine
+fibres, vlaknine
+water, voda
