@@ -19,8 +19,9 @@ def kviz(besede, N):
         beseda, prevod = random.choice(besede)
         
         odgovor = input(f"Kako se prevede --- {beseda}  ").strip().lower()
+        if odgovor.lower() == 'xx':
+            break
         pravilen_odgovor = prevod.lower()
-        
         skupno_vprasanj += 1
         
         if odgovor == pravilen_odgovor:

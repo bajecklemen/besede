@@ -6,3 +6,5 @@ Nepravilne ponavlja pravilnih pa ne
 ## Navodila
 
 Preneseš obe datoteki na lokalni računalnik v isto mapo in nato poženeš py datoteko.
+
+Če hočeš prej zaključit, vneseš xx
